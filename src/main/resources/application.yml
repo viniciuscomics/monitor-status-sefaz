@@ -1,0 +1,3 @@
+monitor:
+    url-sefaz: https://www.nfe.fazenda.gov.br/portal/disponibilidade.aspx
+    timeout-second: 10
